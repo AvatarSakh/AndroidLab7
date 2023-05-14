@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="textview_forgot">Forgot password?</string>
+    <string name="sign_with">or sign in with</string>
+    <string name="success_login">Success login</string>
+    <string name="fail_login">Incorrect login or password</string>
+    <string name="empty_login">Write your username</string>
+    <string name="empty_password">Write your password</string>
+</resources>
