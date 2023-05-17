@@ -90,7 +90,6 @@
         android:layout_below="@id/layout_password"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:layout_marginEnd="317dp"
         android:textColor="@color/white"
         android:backgroundTint="@color/green"
         android:text="@string/button_login" />
